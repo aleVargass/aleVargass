@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleVargass
-- 👀 I’m interested in Javascript and React
-- 🌱 I’m currently learning github
+- 👀 I’m interested in React
+- 🌱 I’m currently learning Javascript deeper
 - 💞️ I’m looking to collaborate on frontend developer
 - 📫 How to reach me vargasalejandro2506@gmail.com
 
